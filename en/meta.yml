@@ -1,11 +1,13 @@
-title: generic-scratch3-set-coordinates
+title: Set a sprite's coordinates in Scratch
 hero_image: images/banner.png
-description: generic-scratch3-set-coordinates description
-version: 4
+description: How to set a sprite's coordinates in Scratch
+original_url:
+theme: cc-prototype
+duration: 1
 listed: false
-copyedit: false
-last_tested: "2018-11-06"
+ingredient: true
+copyedit: true
+interests:
+technologies: "scratch"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Set coordinates
