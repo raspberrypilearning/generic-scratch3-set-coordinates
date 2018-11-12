@@ -12,6 +12,10 @@ To set a sprite's coordinates so that it appears at a certain location on the St
 
 	![go to x y filled](images/goto_filled.png)
 
+- Attach your `goto` block to your program e.g.
+
+	![go to x y attached to block](images/use-goto.png)
+
 - If you only want to set the `x` or `y` position, you can use either of the following two blocks instead.
 
 	![set x](images/setx.png)
