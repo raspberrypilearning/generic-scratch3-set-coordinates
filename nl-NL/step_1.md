@@ -1,21 +1,21 @@
-To set a sprite's coordinates so that it appears at a certain location on the Stage, follow the steps below.
+Om de coördinaten van een sprite zo in te stellen dat deze op een bepaalde locatie in het speelveld verschijnt, volg je de onderstaande stappen.
 
-- Click on the **Motion** menu in the **Code** palette.
+- Klik op het menu **Beweging** in het tabblad **Code**.
     
-    ![motion menu](images/motion-menu.png)
+    ![bewegingsmenu](images/motion-menu.png)
 
-- Find the `go to x: ( ) y: ( )` block.
+- Zoek het `ga naar x: ( ) y: ( )` blok.
     
-    ![go to x y](images/goto.png)
+    ![ga naar x y](images/goto.png)
 
-- Type in the `x` position and `y` position that you want your sprite to go to.
+- Typ in de `x` positie en de `y` positie waar je jouw sprite naartoe wilt laten gaan.
     
-    ![go to x y filled](images/goto_filled.png)
+    ![ga naar x y ingevuld](images/goto_filled.png)
 
-- Attach your `go to` block to your program e.g.
+- Voeg je `ga naar` blok toe aan je programma, bijv.
     
-    ![go to x y attached to block](images/use-goto.png)
+    ![ga naar x y gekoppeld aan blok](images/use-goto.png)
 
-- If you only want to set the `x` or `y` position, you can use either of the following two blocks instead.
+- Als je alleen de positie `x` of `y` in wilt stellen, kunt je in plaats daarvan één van de volgende twee blokken gebruiken.
     
-    ![set x](images/setx.png) ![set y](images/sety.png)
+    ![stel x in](images/setx.png) ![stel y in](images/sety.png)
