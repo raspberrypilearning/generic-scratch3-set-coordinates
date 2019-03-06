@@ -1,10 +1,10 @@
 ---
-title: Set a sprite's coordinates in Scratch
+title: Scratch मध्ये स्प्राइटचे समन्वय सेट करा
 hero_image: images/banner.png
-description: How to set a sprite's coordinates in Scratch
+description: Scratch मध्ये स्प्राइटचे समन्वय कसे सेट करावे
 original_url:
 theme: cc-prototype
-duration: 1
+duration: 0
 listed: false
 ingredient: true
 copyedit: true
@@ -12,4 +12,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Set coordinates
+    title: समन्वय सेट करा
