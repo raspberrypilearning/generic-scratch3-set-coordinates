@@ -1,16 +1,16 @@
-To set a sprite's coordinates so that it appears at a certain location on the Stage, follow the steps below.
+Bir kuklanın Sahne Alanı'ndaki konumunu, belirli bir yerde görünecek şekilde ayarlamak için aşağıdaki adımları izleyin.
 
-- Click on the **Motion** menu in the **Code** palette.
+- **Kod** sekmesinden **Hareket** menüsünü tıklayın.
     
-    ![motion menu](images/motion-menu.png)
+    ![hareket menüsü](images/motion-menu.png)
 
-- Find the `go to x: ( ) y: ( )` block.
+- `x: ( ) y: ( ) konumuna git` bloğunu bulun.
     
-    ![go to x y](images/goto.png)
+    ![x y konumuna git](images/goto.png)
 
 - Type in the `x` position and `y` position that you want your sprite to go to.
     
-    ![go to x y filled](images/goto_filled.png)
+    ![x y konumuna git doldurulmuş](images/goto_filled.png)
 
 - Attach your `go to` block to your program e.g.
     
