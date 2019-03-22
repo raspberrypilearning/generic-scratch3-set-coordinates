@@ -8,14 +8,14 @@ Bir kuklanın Sahne Alanı'ndaki konumunu, belirli bir yerde görünecek şekild
     
     ![x y konumuna git](images/goto.png)
 
-- Type in the `x` position and `y` position that you want your sprite to go to.
+- Kuklanızın gitmesini istediğiniz `x` konumunu ve `y` konumunu yazın.
     
     ![x y konumuna git doldurulmuş](images/goto_filled.png)
 
-- Attach your `go to` block to your program e.g.
+- Programınıza `konumuna git` bloğunuzu ekleyin, örneğin:
     
-    ![go to x y attached to block](images/use-goto.png)
+    ![x y konumuna git bloğa iliştirilmiş](images/use-goto.png)
 
-- If you only want to set the `x` or `y` position, you can use either of the following two blocks instead.
+- Yalnızca `x` veya `y` konumunu ayarlamak istiyorsanız, bunun yerine aşağıdaki iki bloktan birini kullanabilirsiniz.
     
-    ![set x](images/setx.png) ![set y](images/sety.png)
+    ![x konumunu ayarla](images/setx.png) ![y konumunu ayarla](images/sety.png)
