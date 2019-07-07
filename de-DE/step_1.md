@@ -1,21 +1,21 @@
-To set a sprite's coordinates so that it appears at a certain location on the Stage, follow the steps below.
+Führe die folgenden Schritte aus, um die Koordinaten einer Figur so festzulegen, dass es an einer bestimmten Stelle auf der Bühne angezeigt wird.
 
-- Click on the **Motion** menu in the **Code** palette.
+- Klicke in der **Palette** auf **Bewegung**.
     
-    ![motion menu](images/motion-menu.png)
+    ![Bewegungsmenü](images/motion-menu.png)
 
-- Find the `go to x: ( ) y: ( )` block.
+- Suche den Block `gehe zu x: () y: ()`.
     
-    ![go to x y](images/goto.png)
+    ![gehe zu xy](images/goto.png)
 
-- Type in the `x` position and `y` position that you want your sprite to go to.
+- Gib die `x` Position und die `y` Position ein, an die deine Figur gehen soll.
     
-    ![go to x y filled](images/goto_filled.png)
+    !["gehe zu xy" ausgefüllt](images/goto_filled.png)
 
-- Attach your `go to` block to your program e.g.
+- Füge den `gehe zu` Block deinem Programm hinzu, z.B.
     
-    ![go to x y attached to block](images/use-goto.png)
+    !["gehe zu xy" an einem Block](images/use-goto.png)
 
-- If you only want to set the `x` or `y` position, you can use either of the following two blocks instead.
+- Wenn du nur die Position `x` oder `y` einstellen möchtest, kannst du stattdessen einen der beiden folgenden Blöcke verwenden.
     
-    ![set x](images/setx.png) ![set y](images/sety.png)
+    ![setze x auf](images/setx.png) ![setze y auf](images/sety.png)
