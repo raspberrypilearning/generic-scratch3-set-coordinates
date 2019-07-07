@@ -1,7 +1,7 @@
 ---
-title: Set a sprite's coordinates in Scratch
+title: Lege die Koordinaten einer Figur in Scratch fest
 hero_image: images/banner.png
-description: How to set a sprite's coordinates in Scratch
+description: So legst du die Koordinaten einer Figur in Scratch fest
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Set coordinates
+    title: Koordinaten festlegen
