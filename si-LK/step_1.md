@@ -1,21 +1,21 @@
-To set a sprite's coordinates so that it appears at a certain location on the Stage, follow the steps below.
+පහත පියවර අනුගමනය කර, වේදිකාවේ එක්තරා ස්ථානයක දිස්වන පරිදි sprite ගේ ඛණ්ඩාංක සැකසීමට ඔබට පුළුවන.
 
-- Click on the **Motion** menu in the **Code** palette.
+- ** කේත(code) ** පලතේ(palette එකේ) ඇති ** චලිතය(Motion) **මෙනුව මත ක්ලික් කරන්න .
     
-    ![motion menu](images/motion-menu.png)
+    ![චලන මෙනුව](images/motion-menu.png)
 
-- Find the `go to x: ( ) y: ( )` block.
+- `go to x : () y: () ` කට්ටිය(block එක) සොයා ගන්න.
     
-    ![go to x y](images/goto.png)
+    ![xy වෙත යන්න](images/goto.png)
 
-- Type in the `x` position and `y` position that you want your sprite to go to.
+- ඔබේ sprite එක යැවීමට අවශ්‍ය ස්ථානයේ ` x ` සහ ` y ` ඛණ්ඩාංක අගයන් ටයිප් කරන්න.
     
-    ![go to x y filled](images/goto_filled.png)
+    ![පුරවා ඇති x y වෙත යන්න](images/goto_filled.png)
 
-- Attach your `go to` block to your program e.g.
+- ඔබගේ ` go to ` කට්ටිය(block එක) ඔබේ වැඩසටහනට අමුණන්න උදා.
     
-    ![go to x y attached to block](images/use-goto.png)
+    ![කට්ටියට (block) අමුණා ඇති x y වෙත යන්න](images/use-goto.png)
 
-- If you only want to set the `x` or `y` position, you can use either of the following two blocks instead.
+- ඔබට අවශ්‍ය වන්නේ ` x ` ගේ හෝ ` y ` ගේ පිහිටීම පමණක් සැකසීමට නම්, ඔබට ඒ සඳහා පහත සඳහන් කොටස් දෙකෙන් එකක් භාවිතා කළ හැකිය.
     
-    ![set x](images/setx.png) ![set y](images/sety.png)
+    ![x - ස්ථානය සකසන්න](images/setx.png) ![y - ස්ථානය සකසන්න](images/sety.png)
