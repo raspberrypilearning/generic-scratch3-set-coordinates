@@ -1,9 +1,9 @@
 ---
-title: Set a sprite's coordinates in Scratch
-hero_image: images/banner.png
-description: How to set a sprite's coordinates in Scratch
+title: Scratch වල sprite ගේ ඛණ්ඩාංකය සකසන්න
+hero_image: images / banner.png
+description: Scratch වල sprite ගේ ඛණ්ඩාංක සකසන්නේ කෙසේද
 original_url:
-theme: cc-prototype
+theme: cc-ප්‍රදර්ශකය
 duration: 1
 listed: false
 ingredient: true
@@ -12,4 +12,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Set coordinates
+    title: ඛණ්ඩාංක සකසන්න
