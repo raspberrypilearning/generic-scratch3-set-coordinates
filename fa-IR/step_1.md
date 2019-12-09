@@ -1,16 +1,16 @@
-To set a sprite's coordinates so that it appears at a certain location on the Stage, follow the steps below.
+برای تنظیم مختصات شکلک به طوری که در یک مکان مشخص در صفحه نشان داده شود، مراحل زیر را دنبال کنید.
 
-- Click on the **Motion** menu in the **Code** palette.
+- بر روی منوی **Motion** در پالت **Code** کلیک کنید.
     
-    ![motion menu](images/motion-menu.png)
+    ![منوی حرکت](images/motion-menu.png)
 
-- Find the `go to x: ( ) y: ( )` block.
+- بلوک `به x:() و y:() برو` را پیدا کنید.
     
-    ![go to x y](images/goto.png)
+    ![به موقعیت x و y برو](images/goto.png)
 
-- Type in the `x` position and `y` position that you want your sprite to go to.
+- موقعیت `x` و `y` را که می خواهید شکلک به آنجا برود، وارد کنید.
     
-    ![go to x y filled](images/goto_filled.png)
+    ![به موقعیت x و y برو تکمیل شده](images/goto_filled.png)
 
 - Attach your `go to` block to your program e.g.
     
