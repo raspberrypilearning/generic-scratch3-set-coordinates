@@ -1,21 +1,21 @@
-To set a sprite's coordinates so that it appears at a certain location on the Stage, follow the steps below.
+Для задания координат спрайта так, чтобы он появился в центре Сцены, следуй пошаговой инструкции приведенной ниже.
 
-- Click on the **Motion** menu in the **Code** palette.
+- Нажми на меню **Движение** в вкладке **Код**.
     
-    ![motion menu](images/motion-menu.png)
+    ![меню движение](images/motion-menu.png)
 
-- Find the `go to x: ( ) y: ( )` block.
+- Найди блок `перейти в x: ( ) y: ( )`.
     
-    ![go to x y](images/goto.png)
+    ![перейти в x y](images/goto.png)
 
-- Type in the `x` position and `y` position that you want your sprite to go to.
+- Введи координаты `х` и `у` куда должен перейти твой спрайт.
     
-    ![go to x y filled](images/goto_filled.png)
+    ![перейти в x y заполнены](images/goto_filled.png)
 
-- Attach your `go to` block to your program e.g.
+- Добавь этот блок `перейти в` к своей программе.
     
-    ![go to x y attached to block](images/use-goto.png)
+    ![перейти в x y добавлен к блоку](images/use-goto.png)
 
-- If you only want to set the `x` or `y` position, you can use either of the following two blocks instead.
+- Если ты хочешь только задать `x` или `у` положение, есть другие два блока, приведенные ниже, которые ты можешь использовать.
     
-    ![set x](images/setx.png) ![set y](images/sety.png)
+    ![задать x](images/setx.png) ![задать y](images/sety.png)
