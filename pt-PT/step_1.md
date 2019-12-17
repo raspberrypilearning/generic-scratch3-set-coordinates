@@ -1,21 +1,21 @@
-To set a sprite's coordinates so that it appears at a certain location on the Stage, follow the steps below.
+Para definires as coordenadas de um actor de forma a que ele apareça num determinado local no Palco, segue as etapas abaixo.
 
-- Click on the **Motion** menu in the **Code** palette.
+- Clica no menu **Movimento** na paleta **Código**.
     
-    ![motion menu](images/motion-menu.png)
+    ![menu de movimento](images/motion-menu.png)
 
-- Find the `go to x: ( ) y: ( )` block.
+- Encontra o bloco ` vai para a posição x: () y: () `.
     
-    ![go to x y](images/goto.png)
+    ![vai para x y](images/goto.png)
 
-- Type in the `x` position and `y` position that you want your sprite to go to.
+- Digita a posição `x` e a posição `y` para a qual desejas que o teu actor vá.
     
-    ![go to x y filled](images/goto_filled.png)
+    ![vai para x y preenchido](images/goto_filled.png)
 
-- Attach your `go to` block to your program e.g.
+- Anexa o teu bloco ` vai para a posição ` ao teu programa, por exemplo.
     
-    ![go to x y attached to block](images/use-goto.png)
+    ![vai para x y anexado ao bloco](images/use-goto.png)
 
-- If you only want to set the `x` or `y` position, you can use either of the following two blocks instead.
+- Se apenas desejas definir a posição `x` ou `y`, podes antes usar qualquer um dos blocos seguintes.
     
-    ![set x](images/setx.png) ![set y](images/sety.png)
+    ![definir x](images/setx.png) ![definir y](images/sety.png)
