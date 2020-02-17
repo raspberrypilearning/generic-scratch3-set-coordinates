@@ -1,7 +1,7 @@
 ---
-title: Set a sprite's coordinates in Scratch
+title: Določi koordinate figure v Scratchu
 hero_image: images/banner.png
-description: How to set a sprite's coordinates in Scratch
+description: Kako določiti koordinate figure v Scratchu
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Set coordinates
+    title: Določi koordinate
