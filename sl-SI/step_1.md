@@ -1,21 +1,21 @@
-To set a sprite's coordinates so that it appears at a certain location on the Stage, follow the steps below.
+Za določitev koordinat figure, da se ta pojavi na določenem položaju, sledi tem korakom.
 
-- Click on the **Motion** menu in the **Code** palette.
+- Klikni na meni **Gibanje** na zavihku **koda**.
     
-    ![motion menu](images/motion-menu.png)
+    ![meni gibanja](images/motion-menu.png)
 
-- Find the `go to x: ( ) y: ( )` block.
+- Najdi blok `pojdi na x: () x: ()`.
     
-    ![go to x y](images/goto.png)
+    ![pojdi na x y](images/goto.png)
 
-- Type in the `x` position and `y` position that you want your sprite to go to.
+- Vnesi položaj `x` in `y`, kamor si želiš, da bo tvoja figura šla.
     
-    ![go to x y filled](images/goto_filled.png)
+    ![pojdi na x y izpolnjen](images/goto_filled.png)
 
-- Attach your `go to` block to your program e.g.
+- Pripni svoj blok `pojdi na` k svojemu programu ali delu tega.
     
-    ![go to x y attached to block](images/use-goto.png)
+    ![pojdi na xy pripet](images/use-goto.png)
 
-- If you only want to set the `x` or `y` position, you can use either of the following two blocks instead.
+- Če si želiš spremeniti le položaj `x` ali le `y`, lahko namesto tega uporabiš ta dva bloka.
     
-    ![set x](images/setx.png) ![set y](images/sety.png)
+    ![nastavi x](images/setx.png) ![nastavi y](images/sety.png)
