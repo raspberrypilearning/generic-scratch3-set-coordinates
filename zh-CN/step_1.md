@@ -1,21 +1,23 @@
-To set a sprite's coordinates so that it appears at a certain location on the Stage, follow the steps below.
++ Click on **My Blocks**, and then click **Make a Block**.
 
-- Click on the **Motion** menu in the **Code** palette.
-    
-    ![motion menu](images/motion-menu.png)
+![My Blocks](images/my-blocks-annotated.png)
 
-- Find the `go to x: ( ) y: ( )` block.
-    
-    ![go to x y](images/goto.png)
++ You can create blocks that have 'gaps' to add data. These 'gaps' are called **parameters**. To add parameters, click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
 
-- Type in the `x` position and `y` position that you want your sprite to go to.
-    
-    ![go to x y filled](images/goto_filled.png)
+![Create a new block with parameters](images/parameter-create-annotated.png)
 
-- Attach your `go to` block to your program e.g.
-    
-    ![go to x y attached to block](images/use-goto.png)
++ You can then define your new block, and use the data by dragging the circular blocks to use them in your code.
 
-- If you only want to set the `x` or `y` position, you can use either of the following two blocks instead.
-    
-    ![set x](images/setx.png) ![set y](images/sety.png)
+![Define a new block with parameters](images/parameter-define-annotated.png)
+
++ Now you add data as parameters into the gaps of your new block.
+
+![Use a new block with parameters](images/parameter-use.png)
+
++ Use the new `define` block with the gaps you have filled in by attaching code to it and adding it to your script.
+
+![Test a new block with parameters](images/parameter-test.png)
+
++ If you want to add some text between parameters, you can add label text:
+
+![Create a new block with parameters](images/parameter-label-text-annotated.png)
