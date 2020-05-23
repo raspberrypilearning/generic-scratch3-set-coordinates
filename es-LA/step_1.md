@@ -1,14 +1,14 @@
-To set a sprite's coordinates so that it appears at a certain location on the Stage, follow the steps below.
+Para establecer la coordenada de un objeto con el objetivo que aparezca en una parte específica de Stage, siga los siguientes pasos.
 
-- Click on the **Motion** menu in the **Code** palette.
+- Haga clic en el menú **Motion** en la paleta **Code**.
     
-    ![motion menu](images/motion-menu.png)
+    ![menú de movimiento](images/motion-menu.png)
 
-- Find the `go to x: ( ) y: ( )` block.
+- Encuentra el bloque ` ve a x: ( ) y: ( )`.
     
-    ![go to x y](images/goto.png)
+    ![Ir hacia x y](images/goto.png)
 
-- Type in the `x` position and `y` position that you want your sprite to go to.
+- Escribe la posición `x` y la posición `y` donde quiera que vaya su objeto animado.
     
     ![go to x y filled](images/goto_filled.png)
 
