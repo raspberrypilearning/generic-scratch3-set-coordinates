@@ -2,20 +2,20 @@
 
 - **कोड (Code)** पैलेट में **मोशन (Motion)** मेनू पर क्लिक करें।
     
-    ![motion menu](images/motion-menu.png)
+    ![मोशन मेनू](images/motion-menu.png)
 
-- Find the `go to x: ( ) y: ( )` block.
+- `go to x: ( ) y: ( )` ब्लॉक ढूँढें।
     
-    ![go to x y](images/goto.png)
+    ![x y पर जाएँ](images/goto.png)
 
-- Type in the `x` position and `y` position that you want your sprite to go to.
+- उस `x` स्थिति और `y` स्थिति को टाइप करें जिस पर आप चाहते हैं कि आपका स्प्राइट जाए।
     
-    ![go to x y filled](images/goto_filled.png)
+    ![भरे गए x y पर जाएँ](images/goto_filled.png)
 
-- Attach your `go to` block to your program e.g.
+- अपने `go to` ब्लॉक को अपने प्रोग्राम के साथ संलग्न करें, उदाहरण के लिए
     
-    ![go to x y attached to block](images/use-goto.png)
+    ![ब्लॉक से जुड़े xy पर जाएं](images/use-goto.png)
 
-- If you only want to set the `x` or `y` position, you can use either of the following two blocks instead.
+- यदि आप केवल `x` या `y` स्थिति सेट करना चाहते हैं, तो आप इसके बजाय निम्नलिखित दो ब्लॉकों में से किसी एक का उपयोग कर सकते हैं।
     
-    ![set x](images/setx.png) ![set y](images/sety.png)
+    ![x सेट करें](images/setx.png) ![y सेट करें](images/sety.png)
