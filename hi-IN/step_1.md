@@ -1,6 +1,6 @@
-To set a sprite's coordinates so that it appears at a certain location on the Stage, follow the steps below.
+स्प्राइट के निर्देशांक को इस तरह सेट करने के लिए कि यह स्टेज पर एक निश्चित स्थान पर दिखाई दे, नीचे दिए गए चरणों का पालन करें।
 
-- Click on the **Motion** menu in the **Code** palette.
+- **कोड (Code)** पैलेट में **मोशन (Motion)** मेनू पर क्लिक करें।
     
     ![motion menu](images/motion-menu.png)
 
