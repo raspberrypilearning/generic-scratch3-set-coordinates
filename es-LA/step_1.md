@@ -1,6 +1,6 @@
 Para establecer la coordenada de un objeto con el objetivo que aparezca en una parte específica de Stage, siga los siguientes pasos.
 
-- Haga clic en el menú **Motion** en la paleta **Code**.
+- Haga clic en el menú **Movimiento** en la paleta **Código**.
     
     ![menú de movimiento](images/motion-menu.png)
 
