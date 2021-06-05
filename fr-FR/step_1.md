@@ -2,20 +2,20 @@ Pour définir les coordonnées d'un sprite afin qu'il apparaisse à un certain e
 
 - Clique sur le menu **Mouvement** dans la palette **Code**.
     
-    ![motion menu](images/motion-menu.png)
+    ![menu mouvement](images/motion-menu.png)
 
 - Trouve le bloc `aller à x: ( ) y: ( )`.
     
-    ![go to x y](images/goto.png)
+    ![aller à x y](images/goto.png)
 
-- Type in the `x` position and `y` position that you want your sprite to go to.
+- Tape la position `x` et la position `y` auxquelles tu souhaites que ton sprite se déplace.
     
-    ![go to x y filled](images/goto_filled.png)
+    ![aller à x y rempli](images/goto_filled.png)
 
-- Attach your `go to` block to your program e.g.
+- Attache ton bloc `aller à` à ton programme, par exemple.
     
-    ![go to x y attached to block](images/use-goto.png)
+    ![aller à x y attaché au bloc](images/use-goto.png)
 
 - Si tu veux seulement définir la position `x` ou `y` , tu peux utiliser l'un des deux blocs suivants à la place.
     
-    ![set x](images/setx.png) ![set y](images/sety.png)
+    ![définir x](images/setx.png) ![définir y](images/sety.png)
