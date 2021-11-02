@@ -1,7 +1,7 @@
 ---
-title: Scratch में स्प्राइट के निर्देशांक सेट करें
+title: Scratch में स्प्राइट के निर्देशांक (coordinates) सेट करें
 hero_image: images/banner.png
-description: Scratch में स्प्राइट के निर्देशांक कैसे सेट करें
+description: Scratch में स्प्राइट के निर्देशांक (coordinates) कैसे सेट करें
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: निर्देशांक सेट करें
+    title: निर्देशांक सेट करें (Set coordinates)
