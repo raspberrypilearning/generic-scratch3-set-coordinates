@@ -1,21 +1,21 @@
 स्प्राइट के निर्देशांक को इस तरह सेट करने के लिए कि यह स्टेज पर एक निश्चित स्थान पर दिखाई दे, नीचे दिए गए चरणों का पालन करें।
 
-- **कोड (Code)** पैलेट में **मोशन (Motion)** मेनू पर क्लिक करें।
+- **Code** पैलेट में **Motion** मेन्यू पर क्लिक करें।
     
-    ![मोशन मेनू](images/motion-menu.png)
+    ![motion menu](images/motion-menu.png)
 
 - `go to x: ( ) y: ( )` ब्लॉक ढूँढें।
     
-    ![x y पर जाएँ](images/goto.png)
+    ![go to x y](images/goto.png)
 
 - उस `x` स्थिति और `y` स्थिति को टाइप करें जिस पर आप चाहते हैं कि आपका स्प्राइट जाए।
     
-    ![भरे गए x y पर जाएँ](images/goto_filled.png)
+    ![go to x y filled](images/goto_filled.png)
 
 - अपने `go to` ब्लॉक को अपने प्रोग्राम के साथ संलग्न करें, उदाहरण के लिए
     
-    ![ब्लॉक से जुड़े xy पर जाएं](images/use-goto.png)
+    ![go to x y attached to block](images/use-goto.png)
 
 - यदि आप केवल `x` या `y` स्थिति सेट करना चाहते हैं, तो आप इसके बजाय निम्नलिखित दो ब्लॉकों में से किसी एक का उपयोग कर सकते हैं।
     
-    ![x सेट करें](images/setx.png) ![y सेट करें](images/sety.png)
+    ![set x](images/setx.png) ![set y](images/sety.png)
