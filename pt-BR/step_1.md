@@ -6,11 +6,11 @@ To set a sprite's coordinates so that it appears at a certain location on the St
 
 - Find the `go to x: ( ) y: ( )` block.
     
-    ![go to x y](images/goto.png)
+    ![vá para x y](images/goto.png)
 
 - Type in the `x` position and `y` position that you want your sprite to go to.
     
-    ![go to x y filled](images/goto_filled.png)
+    ![vá para x y preenchido](images/goto_filled.png)
 
 - Attach your `go to` block to your program e.g.
     
