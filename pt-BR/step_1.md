@@ -1,14 +1,14 @@
-To set a sprite's coordinates so that it appears at a certain location on the Stage, follow the steps below.
+Para definir as coordenadas de um personagem para que ele apareça em um determinado local no palco, siga as etapas abaixo.
 
-- Click on the **Motion** menu in the **Code** palette.
+- Na aba **Código**, clique na categoria **Movimento** do menu.
     
     ![motion menu](images/motion-menu.png)
 
-- Find the `go to x: ( ) y: ( )` block.
+- Encontre o bloco ` vá para x: ( ) y: ( ) `.
     
     ![vá para x y](images/goto.png)
 
-- Type in the `x` position and `y` position that you want your sprite to go to.
+- Digite os valores das posições `x` e `y` que você deseja que seu personagem vá.
     
     ![vá para x y preenchido](images/goto_filled.png)
 
@@ -18,4 +18,4 @@ To set a sprite's coordinates so that it appears at a certain location on the St
 
 - If you only want to set the `x` or `y` position, you can use either of the following two blocks instead.
     
-    ![set x](images/setx.png) ![set y](images/sety.png)
+    ![definir x](images/setx.png) ![set y](images/sety.png)
