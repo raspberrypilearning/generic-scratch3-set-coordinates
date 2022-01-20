@@ -2,7 +2,7 @@ Para definir as coordenadas de um personagem para que ele apareça em um determi
 
 - Na aba **Código**, clique na categoria **Movimento** do menu.
     
-    ![motion menu](images/motion-menu.png)
+    ![categoria movimento](images/motion-menu.png)
 
 - Encontre o bloco ` vá para x: ( ) y: ( ) `.
     
@@ -12,10 +12,10 @@ Para definir as coordenadas de um personagem para que ele apareça em um determi
     
     ![vá para x y preenchido](images/goto_filled.png)
 
-- Attach your `go to` block to your program e.g.
+- Arraste seu bloco ` vá para ` para o painel.
     
-    ![go to x y attached to block](images/use-goto.png)
+    ![ir para x y anexado ao bloco](images/use-goto.png)
 
-- If you only want to set the `x` or `y` position, you can use either of the following two blocks instead.
+- Caso você queira preencher apenas os valores das posições `x` ou `y`, você pode usar um dos dois blocos a seguir.
     
-    ![definir x](images/setx.png) ![set y](images/sety.png)
+    ![definir x](images/setx.png) ![definir y](images/sety.png)
