@@ -1,7 +1,7 @@
 ---
-title: Set a sprite's coordinates in Scratch
+title: Scratchのスプライトの座標 (ざひょう) を設定する
 hero_image: images/banner.png
-description: How to set a sprite's coordinates in Scratch
+description: Scratchのスプライトの座標 (ざひょう) を設定する方法について学ぶ
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Set coordinates
+    title: 座標を設定
