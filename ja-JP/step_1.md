@@ -1,21 +1,21 @@
-To set a sprite's coordinates so that it appears at a certain location on the Stage, follow the steps below.
+ストライプの座標を設定して、ステージ上の特定の位置に表示させるには、次のようにします。
 
-- Click on the **Motion** menu in the **Code** palette.
+- **コード** パレットの **動き** メニューをクリックします。
     
-    ![motion menu](images/motion-menu.png)
+    ![「動き」のメニュー](images/motion-menu.png)
 
-- Find the `go to x: ( ) y: ( )` block.
+- `x座標を( )、 y座標を( )にする`ブロックを探します。
     
-    ![go to x y](images/goto.png)
+    ![x座標を()、 y座標を()にする](images/goto.png)
 
-- Type in the `x` position and `y` position that you want your sprite to go to.
+- スプライトを移動させたい`x`の位置と、 `y`の位置を入力します。
     
-    ![go to x y filled](images/goto_filled.png)
+    ![入力済みのx座標を()、 y座標を()にする](images/goto_filled.png)
 
-- Attach your `go to` block to your program e.g.
+- `(どこかの場所)へ行く`ブロックをプログラムに取り付けます。例:
     
-    ![go to x y attached to block](images/use-goto.png)
+    ![x座標を()、 y座標を()にするをブロックに接続](images/use-goto.png)
 
-- If you only want to set the `x` or `y` position, you can use either of the following two blocks instead.
+- もし、 `x` か `y`のどちらかだけを設定したい場合は、代わりに次の2つのブロックを使うこともできます。
     
-    ![set x](images/setx.png) ![set y](images/sety.png)
+    ![x座標を設定](images/setx.png) ![y座標を設定](images/sety.png)
